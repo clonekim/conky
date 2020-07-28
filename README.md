@@ -1,5 +1,7 @@
 # Conkey
 
+![](conky.png)
+
 ```conf
 # --- predefined colors - http://www.kgym.jp/freesoft/xrgb.html --- #
 color0 FFFFFF                           # white
