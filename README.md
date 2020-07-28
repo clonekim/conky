@@ -1,4 +1,4 @@
-# Conkey
+# Conky
 
 ![](conky.png)
 
